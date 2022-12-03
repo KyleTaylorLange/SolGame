@@ -1,5 +1,8 @@
 # Sol Under Siege
+
 Author: Kyle Taylor Lange
+
+Looking for the older version developed from 2015 for Unreal Engine 4? [Click here.](https://github.com/KyleTaylorLange/SolGame)
 
 ## Summary
 
